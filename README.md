@@ -7,7 +7,7 @@ To compare the equality of means for our binary FNE variable, we perfomed a two-
 
 [insert Table 1]
 
-The figures below illustrate pooled results for confidence in Fidesz, the United Opposition, the national government, and the media (lod-odds) using the binary FNE independent variable, with 95% heterskedasticity robust confidence intervals and controls for education, household income, age, gender, whether the survey respondent voted in 2018, awareness of the Hungarian Constitutional Court, satisfaction with democarcy, political loyalty vis-a-vis party preference, with inclusion of survey weights. These figures were incorporated in the working paper's appendix for readers to reference the complete regression results. You can find the code that I developed to generate these results and create these figures on line ______ of the replication file .
+The figures below illustrate pooled results for confidence in Fidesz, the United Opposition, the national government, and the media (lod-odds) using the binary FNE independent variable, with 95% heterskedasticity robust confidence intervals and controls for education, household income, age, gender, whether the survey respondent voted in 2018, awareness of the Hungarian Constitutional Court, satisfaction with democarcy, political loyalty vis-a-vis party preference, with inclusion of survey weights. These figures were incorporated in the working paper's appendix for readers to reference the complete regression results. You can find the code that I developed to generate these results and create these figures on line ______ of the [replication file](https://github.com/vi-le-16/The-Political-Role-of-Fake-News-and-Fake-News-Efficacy/blob/main/replication_file.R).
 
 ![](images/figure_1_fne_binary_conf_fidesz_no_party.png)
 ![](images/figure_2_fne_binary_conf_united_opp_no_party.png)
@@ -16,5 +16,9 @@ The figures below illustrate pooled results for confidence in Fidesz, the United
 
 #[insert Appendix N tables 1 - 4] 
 
-These tables illustrate robustness checks for the complete regression results above and include replications of our fractional logistic regressions (models 3-4) using OLS (models 1-2). P-values (in parentheses) are calculated from heteroskedasticity robust standard errors. You can find the code that I developed to generate these results and create these tables on line ______ of the replication file.
+The tables below illustrate robustness checks for the complete regression results above and include replications of our fractional logistic regressions (models 3-4) using OLS (models 1-2). P-values (in parentheses) are calculated from heteroskedasticity robust standard errors. You can find the code that I developed to generate these results and create these tables on line ______ of the [replication file](https://github.com/vi-le-16/The-Political-Role-of-Fake-News-and-Fake-News-Efficacy/blob/main/replication_file.R).
 
+![](images/)
+![](images/)
+![](images/)
+![](images/)
