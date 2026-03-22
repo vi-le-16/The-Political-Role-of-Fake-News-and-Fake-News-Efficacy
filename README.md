@@ -14,11 +14,9 @@ The figures below illustrate pooled results for confidence in Fidesz, the United
 ![](images/figure_3_fne_binary_conf_nat_gov_no_party.png)
 ![](images/figure_4_fne_binary_conf_media_no_party.png)
 
-#[insert Appendix N tables 1 - 4] 
-
 The tables below illustrate robustness checks for the complete regression results above and include replications of our fractional logistic regressions (models 3-4) using OLS (models 1-2). P-values (in parentheses) are calculated from heteroskedasticity robust standard errors. You can find the code that I developed to generate these results and create these tables on line ______ of the [replication file](https://github.com/vi-le-16/The-Political-Role-of-Fake-News-and-Fake-News-Efficacy/blob/main/replication_file.R).
 
-![](images/)
-![](images/)
-![](images/)
-![](images/)
+![](images/table_1_conf_fidesz.png)
+![](images/table_2_conf_united_opp.png)
+![](images/table_3_conf_nat_gov.png)
+![](images/table_4_conf_media.png)
